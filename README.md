@@ -1,4 +1,10 @@
 ### Hi there 👋
+My Name is Aslesh Gattargi.
+I have stared my mastes journey in the Fall Semester at Western Michigan University.
+Will come back soon and share my experience.
+
+Thanks!!
+
 
 <!--
 **GattargiAslesh/GattargiAslesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
